@@ -1,9 +1,9 @@
 # Multi -omics normalization examples and exercises
 
 Multi -omics normalization exercises and examples for BIOINF 504        
-Two notebook files - one in python and one in R are provided      
+Two notebook files - one in python and one in R - are provided      
 
-For attendance for today please do a pull request against the following repo by the end of the class session:        
+For the the hands on exerience with tools that help with reproducibility (git, GitHub, documentstion )do a pull request against the following repo by the end of the class session:        
 https://github.com/mitreac/multi_omics_normalization 
 
 Make sure the pull request is done against the base (mitreac repo) not your forked repo main branch.      
