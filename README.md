@@ -65,6 +65,7 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 https://github.com/mitreac/multi_omics_normalization/pulls     
 
+Edit made for BIOINF504_s07 exercise
 
 
 
